@@ -91,7 +91,6 @@ export function BlogPage() {
           </div>
         </article>
 
-        <CommentSection blogId={parseInt(id!)} comments={comments} />
       </main>
     </div>
   );
